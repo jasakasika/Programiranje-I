@@ -8,7 +8,7 @@ int min(int x, int y) {
 	return (x <= y) ? x : y;
 }
 void main() {
-	int n, c1, c2;
+	int n;
 	do {
 		cout << "Unesite 'n': " << endl;
 		cin >> n;
